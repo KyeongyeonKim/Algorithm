@@ -9,6 +9,7 @@ public class BOJ_2558 {
         int a = input.nextInt();
         int b = input.nextInt();
 
+
         System.out.println(a+b);
     }
 
